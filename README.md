@@ -25,7 +25,7 @@
   <a href = "mailto:leonardoc.soares08@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
  </a>
   <a href="https://www.linkedin.com/in/leonardodevs/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- <img align="" alt="Rafa-pic" height="100" src="https://giffiles.alphacoders.com/146/14621.gif">
+ <a><img align="" alt="Rafa-pic" height="100" src="https://giffiles.alphacoders.com/146/14621.gif"></a>
  
  
 </div>
