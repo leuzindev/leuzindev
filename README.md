@@ -1,5 +1,5 @@
 ## Olá me chamo Leonardo e sou Desenvolvedor Back-End!
-<div align="center">
+<div align="">
  <img align="right" alt="Rafa-pic" height="150" src="https://giffiles.alphacoders.com/146/14621.gif">
   <a href="https://github.com/leuzindev">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=leuzindev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
