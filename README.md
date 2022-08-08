@@ -18,6 +18,7 @@
   <img align="center" alt="Rafa-Nest" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg"">
   <img align="center" alt="Rafa-Mongo" height="30" width="40" src="https://icongr.am/devicon/mongodb-original.svg?size=128&color=currentColor">
   <img align="center" alt="Rafa-Vue" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg">
+  <img align="center" alt="Rafa-Sequelize" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original.svg">
   <img align="" alt="Rafa-pic" height="100" src="https://giffiles.alphacoders.com/146/14621.gif">
 </div>
  
