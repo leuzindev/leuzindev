@@ -1,4 +1,4 @@
-## Olá me chamo Leonardo e sou Desenvolvedor Back-End!
+## Olá me chamo Leonardo e sou Desenvolvedor Full-Stack!
 <div align="center">
  
   <a href="https://github.com/leuzindev">
