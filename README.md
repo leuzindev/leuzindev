@@ -6,11 +6,12 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leuzindev&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
  
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,java,javascript,typescript,cs,c,html,css,react,django,mysql,mongodb,postgres,figma" />
-  </a>
-</p>
+
+ <p align="center">
+   <a href="https://skillicons.dev">
+     <img  src="https://skillicons.dev/icons?i=python,nodejs,java,javascript,typescript,cs,html,css,react,nestjs,django,mysql,mongodb,postgres,figma" />
+   </a>
+ </p>
 
  
 <div align="center" > 
