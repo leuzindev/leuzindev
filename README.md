@@ -9,7 +9,7 @@
 ---
  <p align="center">
    <a href="https://skillicons.dev">
-     <img  src="https://skillicons.dev/icons?i=python,nodejs,java,javascript,typescript,cs,html,css,react,nestjs,django,mysql,mongodb,postgres,prisma,figma&perline=20"/>
+     <img  src="https://skillicons.dev/icons?i=python,nodejs,javascript,typescript,react,vue,tailwind,redux,nestjs,django,prisma,figma&perline=20"/>
    </a>
  </p>
 
@@ -20,9 +20,9 @@
   <a href = "mailto:leonardoc.soares08@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
  </a>
   <a href="https://www.linkedin.com/in/leonardodevs/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
- ![siff](https://user-images.githubusercontent.com/97266637/198896948-a26484b7-5fa4-4fe0-9bbb-d783c6a97796.gif)
-
+ <p align="end">
+ <img src="https://user-images.githubusercontent.com/97266637/198896948-a26484b7-5fa4-4fe0-9bbb-d783c6a97796.gif">
+ </p>
  
 </div>
 
