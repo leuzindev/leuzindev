@@ -23,5 +23,6 @@
 </div>
 
  
- 
+ [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=leuzindev&bg_color=050f2c&color=ffffff&line=0794de&point=00ff1e&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
  
