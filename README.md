@@ -1,10 +1,14 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:5c4ee5,50:7c3aed,100:db2777&height=150&section=header" width="100%" alt="" />
+
 <div align="center">
 
 <img src="https://user-images.githubusercontent.com/97266637/198896948-a26484b7-5fa4-4fe0-9bbb-d783c6a97796.gif" width="160" alt="Lobo em pixel art segurando uma espada" />
 
 # Olá, eu sou o Leonardo
 
-**Desenvolvedor Full-Stack**
+<a href="https://github.com/leuzindev"><img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=7C3AED&center=true&vCenter=true&repeat=true&width=480&height=44&lines=Desenvolvedor+Full-Stack;TypeScript+%E2%80%A2+React+%E2%80%A2+Node.js;Python+%E2%80%A2+Django+%E2%80%A2+NestJS" alt="Desenvolvedor Full-Stack · TypeScript, React, Node.js, Python, Django, NestJS" /></a>
+
+<p><img src="https://komarev.com/ghpvc/?username=leuzindev&style=flat-square&color=7c3aed&label=visitas" alt="Contador de visitas do perfil" /></p>
 
 </div>
 
@@ -14,7 +18,7 @@
   Claude e Cursor fazem parte do meu fluxo de trabalho no dia a dia.
 </p>
 
-<h2 align="center">Stack</h2>
+<h2 align="center">🧰 Stack</h2>
 
 <p align="center">
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
@@ -40,7 +44,7 @@
   </picture>
 </p>
 
-<h2 align="center">GitHub</h2>
+<h2 align="center">📊 GitHub</h2>
 
 <p align="center">
   <picture>
@@ -60,9 +64,34 @@
   </picture>
 </p>
 
-<h2 align="center">Contato</h2>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=leuzindev&theme=github-dark-blue&hide_border=true&locale=pt_BR" />
+    <img src="https://streak-stats.demolab.com/?user=leuzindev&theme=default&hide_border=true&locale=pt_BR" alt="Sequência de contribuições" width="495" />
+  </picture>
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/leuzindev/leuzindev/output/github-snake-dark.svg" />
+    <img src="https://raw.githubusercontent.com/leuzindev/leuzindev/output/github-snake.svg" alt="Cobrinha comendo as contribuições do GitHub" />
+  </picture>
+</p>
+
+<h2 align="center">⭐ Destaques</h2>
+
+| Repositório | Sobre |
+| :-- | :-- |
+| **[fleet](https://github.com/leuzindev/fleet)**<br /><img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" /> | Controle de veículos com geolocalização, online first e OAuth |
+| **[use-formatter](https://github.com/leuzindev/use-formatter)**<br /><img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" /> | Utilitários de formatação de datas, números e strings em pt-BR, publicado no npm |
+| **[forum-clean-arch-ddd](https://github.com/leuzindev/forum-clean-arch-ddd)**<br /><img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" /> | Back-end de fórum com clean architecture e DDD |
+| **[adopet-api](https://github.com/leuzindev/adopet-api)**<br /><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" /> | API de adoção de animais |
+
+<h2 align="center">✉️ Contato</h2>
 
 <p align="center">
   <a href="mailto:leonardoc.soares08@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
   <a href="https://www.linkedin.com/in/leonardodevs/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0iI2ZmZiI+PHBhdGggZD0iTTIwLjQ1IDIwLjQ1aC0zLjU2di01LjU3YzAtMS4zMy0uMDItMy4wNC0xLjg1LTMuMDQtMS44NSAwLTIuMTQgMS40NS0yLjE0IDIuOTR2NS42N0g5LjM1VjloMy40MXYxLjU2aC4wNWMuNDgtLjkgMS42NC0xLjg1IDMuMzctMS44NSAzLjYgMCA0LjI3IDIuMzcgNC4yNyA1LjQ2djYuMjh6TTUuMzQgNy40M2EyLjA2IDIuMDYgMCAxIDEgMC00LjEzIDIuMDYgMi4wNiAwIDAgMSAwIDQuMTN6TTcuMTIgMjAuNDVIMy41NlY5aDMuNTZ2MTEuNDV6TTIyLjIyIDBIMS43N0MuNzkgMCAwIC43NyAwIDEuNzN2MjAuNTRDMCAyMy4yMy43OSAyNCAxLjc3IDI0aDIwLjQ1Yy45OCAwIDEuNzgtLjc3IDEuNzgtMS43M1YxLjczQzI0IC43NyAyMy4yIDAgMjIuMjIgMHoiLz48L3N2Zz4=&logoColor=white" alt="LinkedIn" /></a>
 </p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:5c4ee5,50:7c3aed,100:db2777&height=100&section=footer" width="100%" alt="" />
