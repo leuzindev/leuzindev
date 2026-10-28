@@ -9,9 +9,14 @@
 ---
  <p align="center">
    <a href="https://skillicons.dev">
-     <img  src="https://skillicons.dev/icons?i=typescript,javascript,react,python,nodejs,vue,tailwind,redux,nestjs,django,prisma,docker,figma&perline=20"/>
+     <img  src="https://skillicons.dev/icons?i=typescript,javascript,react,python,nodejs,redux,nestjs,django,prisma,docker&perline=20"/>
    </a>
  </p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/-Claude-D97757?style=for-the-badge&logo=claude&logoColor=white" target="_blank">
+  <img src="https://img.shields.io/badge/-Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white" target="_blank">
+</p>
 
 <div align="center" > 
   <a href = "mailto:leonardoc.soares08@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
