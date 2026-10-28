@@ -78,15 +78,6 @@
   </picture>
 </p>
 
-<h2 align="center">⭐ Destaques</h2>
-
-| Repositório | Sobre |
-| :-- | :-- |
-| **[fleet](https://github.com/leuzindev/fleet)**<br /><img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" /> | Controle de veículos com geolocalização, online first e OAuth |
-| **[use-formatter](https://github.com/leuzindev/use-formatter)**<br /><img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" /> | Utilitários de formatação de datas, números e strings em pt-BR, publicado no npm |
-| **[forum-clean-arch-ddd](https://github.com/leuzindev/forum-clean-arch-ddd)**<br /><img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" /> | Back-end de fórum com clean architecture e DDD |
-| **[adopet-api](https://github.com/leuzindev/adopet-api)**<br /><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" /> | API de adoção de animais |
-
 <h2 align="center">✉️ Contato</h2>
 
 <p align="center">
